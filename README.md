@@ -1,5 +1,10 @@
 # aws-lambda-layer-pandas
 
+*BUILT THIS REPO AND THEN WHILE MAKING A PR TO BE INCLUDED ON `awesome-layers` repo
+I FOUND OUT ABOUT https://github.com/keithrozario/Klayers
+SO THIS IS DEPRECATED IMMEDIATELY 1 HOUR AFTER BIRTH :D*
+
+
 AWS Lambda layer providing pandas and numpy.
 
 ARN of public AWS lambda layer: `arn:aws:lambda:us-east-1:974668457921:layer:Pandas:1`
